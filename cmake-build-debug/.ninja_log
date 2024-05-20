@@ -1,0 +1,4 @@
+# ninja log v5
+2	199	7379411408924201	build.ninja	98c9d2a424f92263
+0	881	7379357394230606	CMakeFiles/HilbertCurve.dir/main.cpp.obj	2cfe335cbadd4777
+938	1064	7379357396044155	HilbertCurve.exe	c2862c3509b2d444

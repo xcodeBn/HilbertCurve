@@ -1,0 +1,5 @@
+"D:\Program Files\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CLion/bin/ninja/win/x64/ninja.exe" "-DCMAKE_INSTALL_PREFIX:PATH=D:/Program Files (x86)/HilbertCurve" -G Ninja -S D:\Documents\CLionProjects\HilbertCpp -B D:\Documents\CLionProjects\HilbertCpp\cmake-build-release
+-- Found SFML 2.6.1 in D:/Program Files/SFML-2.6.1/lib/cmake/SFML
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/Documents/CLionProjects/HilbertCpp/cmake-build-release
